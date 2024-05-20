@@ -1,2 +1,2 @@
-# App-Landing-Project
+# App Landing Project
 Bootstrap - App Landing Project
